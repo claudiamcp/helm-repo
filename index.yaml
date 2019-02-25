@@ -2,22 +2,22 @@ apiVersion: v1
 entries:
   sample-cloud-connector:
   - apiVersion: v1
-    created: 2019-02-25T14:21:31.534666-05:00
+    created: 2019-02-25T14:36:59.206337-05:00
     description: A Helm chart for Activiti Cloud Connector
-    digest: 5cc5421c67fdec5f95c53b985e819d3da9f838a451bf449e7689e35b4d7a708d
+    digest: cb16c82a69d59d8b0c232f79cc0cfe890142bff3eb17c7b341d6a6c71a4af29f
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: sample-cloud-connector
     urls:
-    - https://gitlab.mycompanyview.com/CC0017/helm-repo/sample-cloud-connector-0.1.0.tgz
+    - https://claudiamcp.github.io/helm-repo/sample-cloud-connector-0.1.0.tgz
     version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-02-25T14:21:31.535412-05:00
+    created: 2019-02-25T14:36:59.207046-05:00
     description: A Helm chart for Kubernetes
     digest: c3fd11dda9457145ec9695cca5540a85a0062b0b9e20024b67031cc2704ef85a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-runtime-bundle
     urls:
-    - https://gitlab.mycompanyview.com/CC0017/helm-repo/sample-runtime-bundle-0.1.0.tgz
+    - https://claudiamcp.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-02-25T14:21:31.526633-05:00
+generated: 2019-02-25T14:36:59.202206-05:00
